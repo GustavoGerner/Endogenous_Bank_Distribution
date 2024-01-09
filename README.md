@@ -1,4 +1,4 @@
-# Endogenous_Bank_Distribution
+# Endogenous Bank Distribution
 
 This code simulates results of the model I developed during my dissertation. 
 
